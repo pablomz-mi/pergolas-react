@@ -1,0 +1,63 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+    color: white;
+    padding: 50px;
+}
+
+.imput-form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text-form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 140px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-form{
+    background-color: rgb(17, 16, 16);
+    color: white;
+    margin: 0;
+    width: 140px;
+    padding: 10px;
+    box-shadow: none;
+    border:0;
+    cursor: pointer;
+}
+.contenedor-text{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 300px;
+    font-size: 18px;
+}
+.pagina-form{
+    display: flex;
+    padding-left: 150px;
+    align-items: center;
+    background-color: rgb(7, 7, 7);
+    margin-top: 10px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+.centrar-text{
+    text-align: center;
+}
+.text-final{
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin-bottom: 15px;
+    background-color: rgb(7, 7, 7);
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+}
